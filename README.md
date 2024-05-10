@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on [TelessaúdeRS](https://www.ufrgs.br/telessauders/)
 
-- 🌱 I’m currently learning **React and Backend technologies**
-
-- 💬 Ask me about **Vue, JavaScript, TypeScript, Sass, PHP...**
+- 💬 Ask me about **JavaScript, TypeScript, React, Vue, CSS, Scss, Node**
 
 - 📫 How to reach me **devthiagokersting@gmail.com**
 
