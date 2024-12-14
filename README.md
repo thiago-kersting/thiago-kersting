@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 <br>
 
-- 🔭 I’m currently working on [TelessaúdeRS](https://www.ufrgs.br/telessauders/)
-
-- 💬 Ask me about **JavaScript, TypeScript, React, Vue, CSS, Scss, Node**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next, Vue, Nuxt, Node...**
 
 - 📫 How to reach me **devthiagokersting@gmail.com**
 
